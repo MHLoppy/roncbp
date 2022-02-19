@@ -1,4 +1,4 @@
-# roncbp.com (roncbp)
+# roncbp.com
 
 This is the source code (HTML, CSS etc) used for https://roncbp.com.
 
